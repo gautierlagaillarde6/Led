@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap");
+
+@import url("Components/container.css");
+@import url("Components/avatar.css");
+@import url("Components/button.css");
+@import url("Components/banner.css");
+@import url("Components/card.css");
+
+body{
+	font-family: 'Quicksand', serif;
+	font-size: 18px;
+}
+
+
+h1, h2, h3 {
+	font-family: 'Quicksand', sans-serif;
+	font-weight: bolder;
+}
+a {
+	text-decoration: none;
+}
